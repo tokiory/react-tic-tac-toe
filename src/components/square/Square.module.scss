@@ -1,0 +1,11 @@
+.square {
+  width: 80px;
+  height: 80px;
+  border: 1px solid slategray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  user-select: none;
+  font-size: 3rem;
+}
